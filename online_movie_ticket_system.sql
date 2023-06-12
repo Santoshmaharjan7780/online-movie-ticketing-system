@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `pizza_cutter`
+-- Database: `online_movie_ticketing_system`
 --
 
 -- --------------------------------------------------------
